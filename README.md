@@ -1,5 +1,5 @@
 - 👋 Hi, I’m arviansetya
-- 👀 I’m interested in software developer
+Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 <!---
 arviansetya/arviansetya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
